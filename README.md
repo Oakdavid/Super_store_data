@@ -6,7 +6,7 @@ The aim is to create an **optimized data model** for business reporting and anal
 ## Tools Used
 - **Power BI Desktop**
 - **Power Query** – for data cleaning and transformation
-- 
+  
 ## Steps Taken
 1. **Data Examination:** Analyzed all tables to determine relationships between fact and dimension tables.
 2. **Dimension Table Optimization:** Combined related dimension tables into single tables and disabled unused tables from loading.
